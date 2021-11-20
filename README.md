@@ -3,7 +3,7 @@ Repository including the work done during the IBM Advanced Data Science Speciali
                                                                           
 ## TODO:
 
-- [ ] Add code used in course 1/4: Fundamentals_of_Scalable_Data_Science 
+- [x] Add code used in course 1/4: Fundamentals_of_Scalable_Data_Science 
 
 - [ ] Add code used in course 2/4: Advanced_Machine_Learning_and_Signal_Processing
 
