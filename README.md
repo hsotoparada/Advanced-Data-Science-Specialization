@@ -7,6 +7,6 @@ Repository including the work done during the IBM Advanced Data Science Speciali
 
 - [x] Add code used in course 2/4: Advanced_Machine_Learning_and_Signal_Processing
 
-- [ ] Add code used in course 3/4: Applied_AI_DeepLearning
+- [x] Add code used in course 3/4: Applied_AI_DeepLearning
 
 - [ ] Add code used in course 4/4: Advanced_Data_Science_Capstone
